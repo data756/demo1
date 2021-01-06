@@ -1,0 +1,15 @@
+Full stack Automation QA RoadMap:-
+
+https://www.youtube.com/watch?v=NkxrHdZrkLE&ab_channel=SDET-QAAutomationTechie
+
+Hybrid Framework Full implementations:-
+https://www.youtube.com/watch?v=M4Ye3SKT46g&list=RDCMUC46vj6mN-6kZm5RYWWqebsg&start_radio=1&t=3&ab_channel=SDET-QAAutomationTechie
+
+Demo WebSite Credentials:-
+
+User ID :	mngr47659
+Password :	123456@
+
+URL:- http://www.demo.guru99.com/v4/
+
+test
